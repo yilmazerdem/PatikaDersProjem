@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e9901ab0-d989-4db2-bb64-a2d8acf42e68" name="Changes" comment="Taksımetre ve daırehesaplama">
-      <change afterPath="$PROJECT_DIR$/src/MainProje/VucutKitleEndeks.java" afterDir="false" />
+    <list default="true" id="e9901ab0-d989-4db2-bb64-a2d8acf42e68" name="Changes" comment="vücut kilo endeks">
+      <change afterPath="$PROJECT_DIR$/src/MainProje/Manav.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,7 +50,7 @@
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.VucutKitleEndeks">
+  <component name="RunManager" selected="Application.Manav">
     <configuration name="DaireAlanCevre" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="MainProje.DaireAlanCevre" />
       <module name="PatikaProject" />
@@ -64,8 +64,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="KdvTutariHesapla" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MainProje.KdvTutariHesapla" />
+    <configuration name="Manav" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MainProje.Manav" />
       <module name="PatikaProject" />
       <extension name="coverage">
         <pattern>
@@ -118,11 +118,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Manav" />
         <item itemvalue="Application.VucutKitleEndeks" />
         <item itemvalue="Application.DaireAlanCevre" />
         <item itemvalue="Application.TaksiMetre" />
         <item itemvalue="Application.UcgenHesaplama" />
-        <item itemvalue="Application.KdvTutariHesapla" />
       </list>
     </recent_temporary>
   </component>
@@ -134,7 +134,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1653283586700</updated>
-      <workItem from="1653283588774" duration="27918000" />
+      <workItem from="1653283588774" duration="28565000" />
     </task>
     <task id="LOCAL-00001" summary="Kdv Tutari Hesaplama">
       <created>1653489885738</created>
@@ -178,7 +178,14 @@
       <option name="project" value="LOCAL" />
       <updated>1653561207390</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="vücut kilo endeks">
+      <created>1653562527768</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1653562527768</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -201,6 +208,7 @@
     <MESSAGE value="Dik üçgen hesaplama" />
     <MESSAGE value="Dik üçgen hesaplamav1" />
     <MESSAGE value="Taksımetre ve daırehesaplama" />
-    <option name="LAST_COMMIT_MESSAGE" value="Taksımetre ve daırehesaplama" />
+    <MESSAGE value="vücut kilo endeks" />
+    <option name="LAST_COMMIT_MESSAGE" value="vücut kilo endeks" />
   </component>
 </project>
