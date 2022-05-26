@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e9901ab0-d989-4db2-bb64-a2d8acf42e68" name="Changes" comment="Dik üçgen hesaplamav1">
-      <change afterPath="$PROJECT_DIR$/src/MainProje/DaireAlanCevre.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MainProje/TaksiMetre.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="e9901ab0-d989-4db2-bb64-a2d8acf42e68" name="Changes" comment="Taksımetre ve daırehesaplama" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -135,7 +131,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1653283586700</updated>
-      <workItem from="1653283588774" duration="26528000" />
+      <workItem from="1653283588774" duration="26864000" />
     </task>
     <task id="LOCAL-00001" summary="Kdv Tutari Hesaplama">
       <created>1653489885738</created>
@@ -165,7 +161,14 @@
       <option name="project" value="LOCAL" />
       <updated>1653544742816</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Taksımetre ve daırehesaplama">
+      <created>1653560926012</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1653560926012</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -187,6 +190,7 @@
     <MESSAGE value="Kdv Tutari Hesaplama" />
     <MESSAGE value="Dik üçgen hesaplama" />
     <MESSAGE value="Dik üçgen hesaplamav1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Dik üçgen hesaplamav1" />
+    <MESSAGE value="Taksımetre ve daırehesaplama" />
+    <option name="LAST_COMMIT_MESSAGE" value="Taksımetre ve daırehesaplama" />
   </component>
 </project>

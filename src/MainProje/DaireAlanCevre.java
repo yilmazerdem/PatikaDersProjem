@@ -1,3 +1,7 @@
+/*
+www.patika.dev
+*/
+
 package MainProje;
 import java.util.Scanner;
 public class DaireAlanCevre {
