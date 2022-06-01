@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e9901ab0-d989-4db2-bb64-a2d8acf42e68" name="Changes" comment="vücut kilo endeks">
-      <change afterPath="$PROJECT_DIR$/src/MainProje/Manav.java" afterDir="false" />
+    <list default="true" id="e9901ab0-d989-4db2-bb64-a2d8acf42e68" name="Changes" comment="MANAV">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MainProje/VariablesandDataTypes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MainProje/VariablesandDataTypes.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,27 +32,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "full.screen.before.presentation.mode": "true",
-    "last_opened_file_path": "C:/Users/yilma/OneDrive/Masaüstü/ECODATİON KURS/EcodationJavaFullStack2",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;full.screen.before.presentation.mode&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/yilma/OneDrive/Masaüstü/ECODATİON KURS/EcodationJavaFullStack2&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.Manav">
-    <configuration name="DaireAlanCevre" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MainProje.DaireAlanCevre" />
+}</component>
+  <component name="RunManager" selected="Application.Pratik_hesapmakinesi">
+    <configuration name="Kosullu_ifadeler" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MainProje.Kosullu_ifadeler" />
       <module name="PatikaProject" />
       <extension name="coverage">
         <pattern>
@@ -64,7 +64,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Manav" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="MainProje.Manav" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="MainProje.Manav" />
       <module name="PatikaProject" />
       <extension name="coverage">
@@ -77,8 +77,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TaksiMetre" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MainProje.TaksiMetre" />
+    <configuration name="MainProje.VariablesandDataTypes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MainProje.VariablesandDataTypes" />
       <module name="PatikaProject" />
       <extension name="coverage">
         <pattern>
@@ -90,21 +90,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UcgenHesaplama" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MainProje.UcgenHesaplama" />
-      <module name="PatikaProject" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="MainProje.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="VucutKitleEndeks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="MainProje.VucutKitleEndeks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="MainProje.VucutKitleEndeks" />
+      <module name="PatikaProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="MainProje.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Pratik_hesapmakinesi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MainProje.Pratik_hesapmakinesi" />
       <module name="PatikaProject" />
       <extension name="coverage">
         <pattern>
@@ -118,11 +118,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Manav" />
-        <item itemvalue="Application.VucutKitleEndeks" />
-        <item itemvalue="Application.DaireAlanCevre" />
-        <item itemvalue="Application.TaksiMetre" />
-        <item itemvalue="Application.UcgenHesaplama" />
+        <item itemvalue="Application.Pratik_hesapmakinesi" />
+        <item itemvalue="Application.Kosullu_ifadeler" />
+        <item itemvalue="Application.MainProje.VariablesandDataTypes" />
+        <item itemvalue="Application.MainProje.Manav" />
+        <item itemvalue="Application.MainProje.VucutKitleEndeks" />
       </list>
     </recent_temporary>
   </component>
@@ -134,7 +134,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1653283586700</updated>
-      <workItem from="1653283588774" duration="28565000" />
+      <workItem from="1653283588774" duration="38347000" />
+      <workItem from="1653744409081" duration="607000" />
+      <workItem from="1654085610284" duration="787000" />
     </task>
     <task id="LOCAL-00001" summary="Kdv Tutari Hesaplama">
       <created>1653489885738</created>
@@ -185,7 +187,14 @@
       <option name="project" value="LOCAL" />
       <updated>1653562527768</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="MANAV">
+      <created>1653562937418</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1653562937418</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -209,6 +218,7 @@
     <MESSAGE value="Dik üçgen hesaplamav1" />
     <MESSAGE value="Taksımetre ve daırehesaplama" />
     <MESSAGE value="vücut kilo endeks" />
-    <option name="LAST_COMMIT_MESSAGE" value="vücut kilo endeks" />
+    <MESSAGE value="MANAV" />
+    <option name="LAST_COMMIT_MESSAGE" value="MANAV" />
   </component>
 </project>

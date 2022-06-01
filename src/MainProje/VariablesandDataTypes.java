@@ -102,9 +102,39 @@ public class VariablesandDataTypes {
         double sonuc = ((mat+fzk+kmya) / 3);
         String durum = (sonuc>=50)?"Gectin Pic" : "Kaldin Got";
         System.out.println("Ortalamanız : "+sonuc+" - "+durum);*/
+        /*
+        ==  EŞİTTİR
+        !=  EŞİT DEĞİLDİR
+        >   BÜYÜKTÜR
+        <   KÜÇÜKTÜR
+        >=  BÜYÜK EŞİT
+        <=  KÜÇÜK EŞİT
+         */
 
+        /*-------------------------------------------------------------------------*/
 
+         /*
+         && VE,AND **HER İKİ İFADE DOĞRUYSA TRUE DÖNDÜRÜR
+         /  şartlardan herhangi biri sağlanıyorsa
+         !  sonucun tersini verir
+          */
+        /*
+        int a=10,b=12,c=9;
 
+        boolean k1 =(a==b);
+        boolean k2 =(c<=a);
+        boolean sonuc =k1&&k2;
+        boolean sonuc2= k1|k2;
+
+        System.out.println(sonuc);
+        System.out.println(sonuc2);
+        System.out.println(!k1);
+        System.out.println(!k2);*/
+
+        /*int a=10,b=12,c;
+        c=(a==b)? 2:3;
+        System.out.println(c);
+        */
 
 
 
