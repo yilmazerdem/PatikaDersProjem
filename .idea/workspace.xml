@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e9901ab0-d989-4db2-bb64-a2d8acf42e68" name="Changes" comment="SinavSonuc">
-      <change afterPath="$PROJECT_DIR$/src/MainProje/EtkinlikApp.java" afterDir="false" />
+    <list default="true" id="e9901ab0-d989-4db2-bb64-a2d8acf42e68" name="Changes" comment="EtkinlikApp">
+      <change afterPath="$PROJECT_DIR$/src/MainProje/NumberSorting.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,7 +50,7 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.EtkinlikApp">
+  <component name="RunManager" selected="Application.NumberSorting">
     <configuration name="EtkinlikApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="MainProje.EtkinlikApp" />
       <module name="PatikaProject" />
@@ -64,8 +64,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Kosullu_ifadeler" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MainProje.Kosullu_ifadeler" />
+    <configuration name="MainProje.LoginEkrani" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MainProje.LoginEkrani" />
       <module name="PatikaProject" />
       <extension name="coverage">
         <pattern>
@@ -77,8 +77,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainProje.LoginEkrani" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MainProje.LoginEkrani" />
+    <configuration name="NumberSorting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MainProje.NumberSorting" />
       <module name="PatikaProject" />
       <extension name="coverage">
         <pattern>
@@ -118,11 +118,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.NumberSorting" />
         <item itemvalue="Application.EtkinlikApp" />
         <item itemvalue="Application.SinifGecmeApp" />
         <item itemvalue="Application.MainProje.LoginEkrani" />
-        <item itemvalue="Application.MainProje.Pratik_hesapmakinesi" />
-        <item itemvalue="Application.MainProje.Kosullu_ifadeler" />
       </list>
     </recent_temporary>
   </component>
@@ -136,7 +135,8 @@
       <updated>1653283586700</updated>
       <workItem from="1653283588774" duration="38347000" />
       <workItem from="1653744409081" duration="607000" />
-      <workItem from="1654085610284" duration="3688000" />
+      <workItem from="1654085610284" duration="5604000" />
+      <workItem from="1654149048082" duration="1018000" />
     </task>
     <task id="LOCAL-00001" summary="Kdv Tutari Hesaplama">
       <created>1653489885738</created>
@@ -215,7 +215,14 @@
       <option name="project" value="LOCAL" />
       <updated>1654089716659</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="EtkinlikApp">
+      <created>1654090517989</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1654090517989</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -243,6 +250,7 @@
     <MESSAGE value="Pratik Hesap Makinesi" />
     <MESSAGE value="Login Page" />
     <MESSAGE value="SinavSonuc" />
-    <option name="LAST_COMMIT_MESSAGE" value="SinavSonuc" />
+    <MESSAGE value="EtkinlikApp" />
+    <option name="LAST_COMMIT_MESSAGE" value="EtkinlikApp" />
   </component>
 </project>
