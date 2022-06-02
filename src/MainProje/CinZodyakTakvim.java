@@ -46,7 +46,7 @@ public class CinZodyakTakvim {
                 System.out.println("Koyun");
                 break;
             default:
-                System.out.println("***Siz ozel Birisiniz***");
+                System.out.println("***Siz ozel Birisiniz****");
         }
     }
 }
