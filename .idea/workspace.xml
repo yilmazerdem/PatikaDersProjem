@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e9901ab0-d989-4db2-bb64-a2d8acf42e68" name="Changes" comment="BurcProgramı">
-      <change afterPath="$PROJECT_DIR$/src/MainProje/UcakBiletProg.java" afterDir="false" />
+    <list default="true" id="e9901ab0-d989-4db2-bb64-a2d8acf42e68" name="Changes" comment="Uçak Bileti Hesaplama">
+      <change afterPath="$PROJECT_DIR$/src/MainProje/CınZodyagı.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,8 +50,21 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.UcakBiletProg">
-    <configuration name="BurcProgram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.CinZodyakTakvim">
+    <configuration name="CinZodyakTakvim" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MainProje.CinZodyakTakvim" />
+      <module name="PatikaProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="MainProje.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainProje.BurcProgram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="MainProje.BurcProgram" />
       <module name="PatikaProject" />
       <extension name="coverage">
@@ -64,7 +77,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EtkinlikApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="MainProje.EtkinlikApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="MainProje.EtkinlikApp" />
       <module name="PatikaProject" />
       <extension name="coverage">
@@ -77,7 +90,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NumberSorting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="MainProje.NumberSorting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="MainProje.NumberSorting" />
       <module name="PatikaProject" />
       <extension name="coverage">
@@ -90,20 +103,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SinifGecmeApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MainProje.SinifGecmeApp" />
-      <module name="PatikaProject" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="MainProje.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="UcakBiletProg" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="MainProje.UcakBiletProg" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="MainProje.UcakBiletProg" />
       <module name="PatikaProject" />
       <extension name="coverage">
@@ -118,11 +118,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.UcakBiletProg" />
-        <item itemvalue="Application.BurcProgrami" />
+        <item itemvalue="Application.CinZodyakTakvim" />
+        <item itemvalue="Application.MainProje.UcakBiletProg" />
+        <item itemvalue="Application.MainProje.BurcProgram" />
         <item itemvalue="Application.MainProje.NumberSorting" />
         <item itemvalue="Application.MainProje.EtkinlikApp" />
-        <item itemvalue="Application.MainProje.SinifGecmeApp" />
       </list>
     </recent_temporary>
   </component>
@@ -137,7 +137,7 @@
       <workItem from="1653283588774" duration="38347000" />
       <workItem from="1653744409081" duration="607000" />
       <workItem from="1654085610284" duration="5604000" />
-      <workItem from="1654149048082" duration="8677000" />
+      <workItem from="1654149048082" duration="11267000" />
     </task>
     <task id="LOCAL-00001" summary="Kdv Tutari Hesaplama">
       <created>1653489885738</created>
@@ -251,7 +251,14 @@
       <option name="project" value="LOCAL" />
       <updated>1654164866290</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Uçak Bileti Hesaplama">
+      <created>1654167710332</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1654167710332</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -282,6 +289,7 @@
     <MESSAGE value="EtkinlikApp" />
     <MESSAGE value="NUMBERSORTING" />
     <MESSAGE value="BurcProgramı" />
-    <option name="LAST_COMMIT_MESSAGE" value="BurcProgramı" />
+    <MESSAGE value="Uçak Bileti Hesaplama" />
+    <option name="LAST_COMMIT_MESSAGE" value="Uçak Bileti Hesaplama" />
   </component>
 </project>
