@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e9901ab0-d989-4db2-bb64-a2d8acf42e68" name="Changes" comment="BurcProgramı" />
+    <list default="true" id="e9901ab0-d989-4db2-bb64-a2d8acf42e68" name="Changes" comment="BurcProgramı">
+      <change afterPath="$PROJECT_DIR$/src/MainProje/UcakBiletProg.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,7 +50,7 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.BurcProgrami">
+  <component name="RunManager" selected="Application.UcakBiletProg">
     <configuration name="BurcProgram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="MainProje.BurcProgram" />
       <module name="PatikaProject" />
@@ -63,19 +66,6 @@
     </configuration>
     <configuration name="EtkinlikApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="MainProje.EtkinlikApp" />
-      <module name="PatikaProject" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="MainProje.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MainProje.LoginEkrani" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MainProje.LoginEkrani" />
       <module name="PatikaProject" />
       <extension name="coverage">
         <pattern>
@@ -113,13 +103,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="UcakBiletProg" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MainProje.UcakBiletProg" />
+      <module name="PatikaProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="MainProje.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.UcakBiletProg" />
         <item itemvalue="Application.BurcProgrami" />
         <item itemvalue="Application.MainProje.NumberSorting" />
         <item itemvalue="Application.MainProje.EtkinlikApp" />
         <item itemvalue="Application.MainProje.SinifGecmeApp" />
-        <item itemvalue="Application.MainProje.LoginEkrani" />
       </list>
     </recent_temporary>
   </component>
@@ -134,7 +137,7 @@
       <workItem from="1653283588774" duration="38347000" />
       <workItem from="1653744409081" duration="607000" />
       <workItem from="1654085610284" duration="5604000" />
-      <workItem from="1654149048082" duration="6024000" />
+      <workItem from="1654149048082" duration="8677000" />
     </task>
     <task id="LOCAL-00001" summary="Kdv Tutari Hesaplama">
       <created>1653489885738</created>
@@ -234,7 +237,21 @@
       <option name="project" value="LOCAL" />
       <updated>1654164719653</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="BurcProgramı">
+      <created>1654164861221</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1654164861221</updated>
+    </task>
+    <task id="LOCAL-00016" summary="BurcProgramı">
+      <created>1654164866290</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1654164866290</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
