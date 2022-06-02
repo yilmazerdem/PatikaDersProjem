@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e9901ab0-d989-4db2-bb64-a2d8acf42e68" name="Changes" comment="NUMBERSORTING">
-      <change afterPath="$PROJECT_DIR$/src/MainProje/BurcProgramı.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="e9901ab0-d989-4db2-bb64-a2d8acf42e68" name="Changes" comment="BurcProgramı" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -50,9 +47,9 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.BurcProgramı">
-    <configuration name="BurcProgramı" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MainProje.BurcProgramı" />
+  <component name="RunManager" selected="Application.BurcProgrami">
+    <configuration name="BurcProgram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MainProje.BurcProgram" />
       <module name="PatikaProject" />
       <extension name="coverage">
         <pattern>
@@ -118,10 +115,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.BurcProgramı" />
-        <item itemvalue="Application.NumberSorting" />
-        <item itemvalue="Application.EtkinlikApp" />
-        <item itemvalue="Application.SinifGecmeApp" />
+        <item itemvalue="Application.BurcProgrami" />
+        <item itemvalue="Application.MainProje.NumberSorting" />
+        <item itemvalue="Application.MainProje.EtkinlikApp" />
+        <item itemvalue="Application.MainProje.SinifGecmeApp" />
         <item itemvalue="Application.MainProje.LoginEkrani" />
       </list>
     </recent_temporary>
@@ -137,7 +134,7 @@
       <workItem from="1653283588774" duration="38347000" />
       <workItem from="1653744409081" duration="607000" />
       <workItem from="1654085610284" duration="5604000" />
-      <workItem from="1654149048082" duration="5418000" />
+      <workItem from="1654149048082" duration="6024000" />
     </task>
     <task id="LOCAL-00001" summary="Kdv Tutari Hesaplama">
       <created>1653489885738</created>
@@ -230,7 +227,14 @@
       <option name="project" value="LOCAL" />
       <updated>1654150198981</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="BurcProgramı">
+      <created>1654164719653</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1654164719653</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -260,6 +264,7 @@
     <MESSAGE value="SinavSonuc" />
     <MESSAGE value="EtkinlikApp" />
     <MESSAGE value="NUMBERSORTING" />
-    <option name="LAST_COMMIT_MESSAGE" value="NUMBERSORTING" />
+    <MESSAGE value="BurcProgramı" />
+    <option name="LAST_COMMIT_MESSAGE" value="BurcProgramı" />
   </component>
 </project>
