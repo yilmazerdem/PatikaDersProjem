@@ -4,14 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e9901ab0-d989-4db2-bb64-a2d8acf42e68" name="Changes" comment="Uçak Bileti Hesaplama">
-      <change afterPath="$PROJECT_DIR$/src/MainProje/CınZodyagı.java" afterDir="false" />
+    <list default="true" id="e9901ab0-d989-4db2-bb64-a2d8acf42e68" name="Changes" comment="Çin Zodyak Burç Takvim2">
+      <change afterPath="$PROJECT_DIR$/src/MainProje/leapYear.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -32,25 +35,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;full.screen.before.presentation.mode&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/yilma/OneDrive/Masaüstü/ECODATİON KURS/EcodationJavaFullStack2&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "full.screen.before.presentation.mode": "true",
+    "last_opened_file_path": "C:/Users/yilma/OneDrive/Masaüstü/ECODATİON KURS/EcodationJavaFullStack2",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "File.Encoding"
   }
-}</component>
-  <component name="RunManager" selected="Application.CinZodyakTakvim">
+}]]></component>
+  <component name="RunManager" selected="Application.leapYear">
     <configuration name="CinZodyakTakvim" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="MainProje.CinZodyakTakvim" />
       <module name="PatikaProject" />
@@ -66,19 +69,6 @@
     </configuration>
     <configuration name="MainProje.BurcProgram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="MainProje.BurcProgram" />
-      <module name="PatikaProject" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="MainProje.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MainProje.EtkinlikApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MainProje.EtkinlikApp" />
       <module name="PatikaProject" />
       <extension name="coverage">
         <pattern>
@@ -116,13 +106,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="leapYear" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MainProje.leapYear" />
+      <module name="PatikaProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="MainProje.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.leapYear" />
         <item itemvalue="Application.CinZodyakTakvim" />
         <item itemvalue="Application.MainProje.UcakBiletProg" />
         <item itemvalue="Application.MainProje.BurcProgram" />
         <item itemvalue="Application.MainProje.NumberSorting" />
-        <item itemvalue="Application.MainProje.EtkinlikApp" />
       </list>
     </recent_temporary>
   </component>
@@ -137,7 +140,7 @@
       <workItem from="1653283588774" duration="38347000" />
       <workItem from="1653744409081" duration="607000" />
       <workItem from="1654085610284" duration="5604000" />
-      <workItem from="1654149048082" duration="11267000" />
+      <workItem from="1654149048082" duration="16518000" />
     </task>
     <task id="LOCAL-00001" summary="Kdv Tutari Hesaplama">
       <created>1653489885738</created>
@@ -258,7 +261,28 @@
       <option name="project" value="LOCAL" />
       <updated>1654167710332</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Çin Zodyak Burç Takvim">
+      <created>1654170764528</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1654170764528</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Çin Zodyak Burç Takvim">
+      <created>1654170828191</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1654170828191</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Çin Zodyak Burç Takvim2">
+      <created>1654170863522</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1654170863522</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -290,6 +314,8 @@
     <MESSAGE value="NUMBERSORTING" />
     <MESSAGE value="BurcProgramı" />
     <MESSAGE value="Uçak Bileti Hesaplama" />
-    <option name="LAST_COMMIT_MESSAGE" value="Uçak Bileti Hesaplama" />
+    <MESSAGE value="Çin Zodyak Burç Takvim" />
+    <MESSAGE value="Çin Zodyak Burç Takvim2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Çin Zodyak Burç Takvim2" />
   </component>
 </project>
