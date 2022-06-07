@@ -15,18 +15,14 @@ public class leapYear {
                 System.out.println(toDay % 100);
             if (sonuc2 == 0) {
                 System.out.println(toDay + " artık bir yıldır ! ..:(");
-                System.out.println(toDay % 400);
             } else {
                 System.out.println(toDay + " artık bir değildir !.. :)");
-                System.out.println(toDay % 400);
             }
             }else {
                 if (sonuc == 0) {
                     System.out.println(toDay + " artık bir yıldır ! ..:(");
-                    System.out.println(toDay % 4);
                 } else{
                     System.out.println(toDay + " artık bir değildir !.. :)");
-                    System.out.println(toDay % 4);
                 }
             }
 
